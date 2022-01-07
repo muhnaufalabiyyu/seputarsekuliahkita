@@ -1,4 +1,11 @@
 ###################
+SEPUTAR KULIAH KITA
+###################
+
+Seputar Kuliah Kita is a web-based application that focuses on developing the features in e-learning STMI Jakarta.
+We are using CodeIgniter as a framework. 
+
+###################
 What is CodeIgniter
 ###################
 
