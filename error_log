@@ -1,0 +1,2 @@
+[31-Dec-2021 13:20:19 Asia/Jakarta] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/seputar8/public_html/application/helpers/skk_helper.php on line 67
+[31-Dec-2021 13:20:20 Asia/Jakarta] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/seputar8/public_html/application/helpers/skk_helper.php on line 67
